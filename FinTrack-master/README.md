@@ -30,6 +30,4 @@ FinTrack is web-based personal finance tracking Tool developed for participating
   - Expense page shows information about Total Expense and expense categories and Monthly Charts of Expense category wise
     ![alt text](https://github.com/ashok020/FinTrack/blob/master/Screenshots/expense%20page.png?raw=true)
 
-## License
 
-MIT
